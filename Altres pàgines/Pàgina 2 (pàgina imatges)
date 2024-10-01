@@ -7,10 +7,10 @@
 </head>
 <body>
     <h1>Galeria d'Imatges</h1>
-    <img src="https://www.spain.info/.content/imagenes/cabeceras-grandes/cataluna/park-guell-barcelona-s-305364611.jpg" alt="Imatge 1">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkIEdnS0Ouk8ajir-ZQk3NrTHhpa_X9StZw&s" alt="Imatge 2">
-    <img src="https://www.barcelo.com/guia-turismo/wp-content/uploads/que-visitar-en-barcelona-1.jpg" alt="Imatge 3">
-    <img src="https://images.unsplash.com/photo-1464790719320-516ecd75af6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww" alt="Imatge 4">
+    <img src="https://www.spain.info/.content/imagenes/cabeceras-grandes/cataluna/park-guell-barcelona-s-305364611.jpg" alt="Imatge 1" width="480" height="380">
+    <img src="https://img2.rtve.es/imagenes/ciudades-para-siglo-xxi-barcelona-ciudad-vertebrada-2/1561977571494.jpg" alt="Imatge 2" width="480" height="380">
+    <img src="https://www.barcelo.com/guia-turismo/wp-content/uploads/que-visitar-en-barcelona-1.jpg" alt="Imatge 3" width="480" height="380">
+    <img src="https://images.unsplash.com/photo-1464790719320-516ecd75af6c?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww" alt="Imatge 4" width="480" height="380">
     <br><br>
     <a href="../index.html">Torna a la Pàgina Principal</a>
 </body>
